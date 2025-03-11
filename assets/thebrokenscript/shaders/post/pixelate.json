@@ -1,0 +1,21 @@
+{
+  "targets": ["minecraft:final"],
+  "passes": [
+    {
+      "name": "pixelate",
+      "intarget": "minecraft:final",
+      "outtarget": "minecraft:final",
+      "shader": "minecraft:shaders/program/pixelate.json",
+      "uniforms": [
+        {
+          "name": "ScreenSize",
+          "values": [1920.0, 1080.0]
+        },
+        {
+          "name": "pixelSize",
+          "values": [8.0]
+        }
+      ]
+    }
+  ]
+}
