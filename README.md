@@ -62,6 +62,10 @@ The analysis of TheBrokenScript Mod (v1.9.3) reveals several concerning behavior
 - **Hidden Triggers:** The inclusion of secret commands and concealed destructive routines suggests an intent to mislead users.
 - **Disruptive Network Behavior:** It sets up internal networking features and blocks chat communication without user consent.
 - **User Experience Hijacking:** Features such as blocking exit functions and generating unexpected pop-ups are not typical of standard mods.
+## Notes
+- Internal Labels: The numbers like “【66】”, “【56】”, and “【34】” were used solely for internal reference in the initial review and do not appear in the repository.
+-File Names: Due to the decompiled nature of the source, the actual file names may differ from the suggestions above. Use search terms such as "desktop", "shutdown", "TBS_devmode", or "chat" within the repository to help locate these functionalities.
+-Verification: For a precise mapping, reviewing the repository’s file structure and performing text searches for key methods or strings (e.g., Runtime.exec, "TBS_devmode") is recommended.
 
 **Conclusion:**  
 While some features may be framed as thematic horror or pranks, the implementation carries significant risks—including data loss and system disruption. Users should exercise extreme caution with this mod and consider testing it in a controlled environment.
