@@ -2,6 +2,9 @@
 
 First and foremost, this report is for anyone who has a concern about security hazards and malicoiuse intent that the mod might have. This report is also not inteded to deter anyone from using the mod. Infact, I hope that you(the reader) will enjoy the mod as much as I have. The mod IS SUPPOESED to simulate being in a minecraft ARG.
 
+Not all of the findings are for version 1.9.3
+Some like pc shutdown are from older versions.
+
 With that said here is the report:
 
 This report outlines behaviors discovered in **TheBrokenScript Mod**, suggesting the mod may contain disruptive, deceptive, or malicious features. The analysis focused on system-level interference, disruptive gameplay manipulation, and unusual hidden behaviors that extend beyond the scope of a typical Minecraft mod.
@@ -35,7 +38,7 @@ All of these findings DO NOT seem to HAVE ANY MALICOUS INTENT.
 ## ⚙️ System-Level Interference
 
 - **Forced PC Shutdown:**  
-  The mod is capable of shutting down the host system abruptly, potentially causing data loss in other applications.
+  The mod was capable of shutting down the host system in older versions of the mod, potentially causing data loss in other applications.
 
 - **Tampering with Audio Settings:**  
   Alters sound settings without warning. Though not dangerous, this is disruptive and invasive.
