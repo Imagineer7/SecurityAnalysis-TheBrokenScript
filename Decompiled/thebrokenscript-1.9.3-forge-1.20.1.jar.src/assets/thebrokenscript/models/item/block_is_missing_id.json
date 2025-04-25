@@ -1,7 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "thebrokenscript:item/tbs_barrier_block"
-  },
-  "render_type": "translucent"
-}
