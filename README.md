@@ -1,4 +1,3 @@
-Here is a chatGPT security analysis of the mod:
 
 # Analysis of TheBrokenScript Mod (v1.9.3) – Malicious or Prank Behavior
 
