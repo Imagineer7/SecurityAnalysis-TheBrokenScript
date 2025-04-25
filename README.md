@@ -1,6 +1,6 @@
 # 🔍 Analysis of TheBrokenScript Mod (1.9.3 AND OLDER ONLY)
 
-First and foremost, this report is for anyone who has a concern about security hazards and malicoiuse intent that the mod might have. This report is also not inteded to deter anyone from using the mod. Infact, I hope that you(the reader) will enjoy the mod as much as I have. The mod IS SUPPOESED to simulate being in a minecraft ARG.
+First and foremost, this report is for anyone who has a concern about security hazards and malicious intent that the mod might have. This report is also not inteded to deter anyone from using the mod. Infact, I hope that you(the reader) will enjoy the mod as much as I have. The mod IS SUPPOESED to simulate being in a minecraft ARG.
 
 Not all of the findings are for version 1.9.3
 Some like pc shutdown are from older versions.
